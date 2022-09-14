@@ -17,6 +17,7 @@ public class ModSounds {
 
     public static RegistryObject<SoundEvent> CONTENT_BOBURNHAM = registerSoundEvent("content_boburnham");
     public static RegistryObject<SoundEvent> COMEDY_BOBURNHAM = registerSoundEvent("comedy_boburnham");
+    public static RegistryObject<SoundEvent> FACETIMEWITHMYMOM_BOBURNHAM = registerSoundEvent("facetimewithmymom_boburnham");
 
 
 
