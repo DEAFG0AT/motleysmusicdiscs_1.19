@@ -19,6 +19,9 @@ public class ModItems {
 public static final RegistryObject<Item> CONTENT_BOBURNHAM_MUSIC_DISC = ITEMS.register("content_boburnham_music_disc",
         () -> new RecordItem(4, ModSounds.CONTENT_BOBURNHAM,
                 new Item.Properties().tab(ModCreativeModTab.DISC_TAB).stacksTo(1).rarity(Rarity.RARE)));
+public static final RegistryObject<Item> COMEDY_BOBURNHAM_MUSIC_DISC = ITEMS.register("comedy_boburnham_music_disc",
+        () -> new RecordItem(4, ModSounds.COMEDY_BOBURNHAM,
+                new Item.Properties().tab(ModCreativeModTab.DISC_TAB).stacksTo(1).rarity(Rarity.RARE)));
 
 
 

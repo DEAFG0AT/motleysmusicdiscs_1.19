@@ -2,6 +2,9 @@
   "item.motleysmusicdiscs.content_boburnham_music_disc": "Music Disc",
   "item.motleysmusicdiscs.content_boburnham_music_disc.desc": "Content - Bo Burnham",
 
+  "item.motleysmusicdiscs.comedy_boburnham_music_disc": "Music Disc",
+  "item.motleysmusicdiscs.comedy_boburnham_music_disc.desc": "Comedy - Bo Burnham",
+
 
   "itemGroup.disctab": "Motley's Music Discs"
 }

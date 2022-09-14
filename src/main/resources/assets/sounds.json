@@ -5,6 +5,14 @@
         "name": "motleysmusicdiscs:content_boburnham",
         "stream": true
       }
-    ]
+    ],
+    "comedy_boburnham": {
+      "sounds": [
+        {
+          "name": "motleysmusicdiscs:comedy_boburnham",
+          "stream": true
+        }
+      ]
+    }
   }
 }
