@@ -143,10 +143,42 @@
       }
     ]
   },
-  "goodbye_anydaynow": {
+  "anydaynow_boburnham": {
     "sounds": [
       {
         "name": "motleysmusicdiscs:anydaynow_boburnham",
+        "stream": true
+      }
+    ]
+  },
+  "taunt_lovejoy": {
+    "sounds": [
+      {
+        "name": "motleysmusicdiscs:taunt_lovejoy",
+        "stream": true
+      }
+    ]
+  },
+  "oneday_lovejoy": {
+    "sounds": [
+      {
+        "name": "motleysmusicdiscs:oneday_lovejoy",
+        "stream": true
+      }
+    ]
+  },
+  "sexsells_lovejoy": {
+    "sounds": [
+      {
+        "name": "motleysmusicdiscs:sexsells_lovejoy",
+        "stream": true
+      }
+    ]
+  },
+  "causeforconcern_lovejoy": {
+    "sounds": [
+      {
+        "name": "motleysmusicdiscs:causeforconcern_lovejoy",
         "stream": true
       }
     ]

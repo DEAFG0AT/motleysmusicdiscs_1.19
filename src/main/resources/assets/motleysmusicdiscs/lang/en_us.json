@@ -57,5 +57,18 @@
   "item.motleysmusicdiscs.anydaynow_boburnham_music_disc.desc": "Any Day Now - Bo Burnham",
 
 
+  "item.motleysmusicdiscs.taunt_lovejoy_music_disc": "Music Disc",
+  "item.motleysmusicdiscs.taunt_lovejoy_music_disc.desc": "Taunt - Lovejoy",
+
+  "item.motleysmusicdiscs.oneday_lovejoy_music_disc": "Music Disc",
+  "item.motleysmusicdiscs.oneday_lovejoy_music_disc.desc": "One Day - Lovejoy",
+
+  "item.motleysmusicdiscs.sexsells_lovejoy_music_disc": "Music Disc",
+  "item.motleysmusicdiscs.sexsells_lovejoy_music_disc.desc": "Sex Sells - Lovejoy",
+
+  "item.motleysmusicdiscs.causeforconcern_lovejoy_music_disc": "Music Disc",
+  "item.motleysmusicdiscs.causeforconcern_lovejoy_music_disc.desc": "Cause For Concern - Lovejoy",
+
+
   "itemGroup.disctab": "Motley's Music Discs"
 }

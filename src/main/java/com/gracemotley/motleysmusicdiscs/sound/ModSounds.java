@@ -35,6 +35,11 @@ public class ModSounds {
     public static RegistryObject<SoundEvent> GOODBYE_BOBURNHAM = registerSoundEvent("goodbye_boburnham");
     public static RegistryObject<SoundEvent> ANYDAYNOW_BOBURNHAM = registerSoundEvent("anydaynow_boburnham");
 
+    public static RegistryObject<SoundEvent> TAUNT_LOVEJOY = registerSoundEvent("taunt_lovejoy");
+    public static RegistryObject<SoundEvent> ONEDAY_LOVEJOY = registerSoundEvent("oneday_lovejoy");
+    public static RegistryObject<SoundEvent> SEXSELLS_LOVEJOY = registerSoundEvent("sexsells_lovejoy");
+    public static RegistryObject<SoundEvent> CAUSEFORCONCERN_LOVEJOY = registerSoundEvent("causeforconcern_lovejoy");
+
 
     private static RegistryObject<SoundEvent> registerSoundEvent(String name) {
         return SOUND_EVENTS.register(name, () -> new SoundEvent(new ResourceLocation(MotleysMusicDiscs.MOD_ID, name)));

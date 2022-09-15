@@ -75,6 +75,21 @@ public static final RegistryObject<Item> ANYDAYNOW_BOBURNHAM_MUSIC_DISC = ITEMS.
                 new Item.Properties().tab(ModCreativeModTab.DISC_TAB).stacksTo(1).rarity(Rarity.RARE)));
 
 
+public static final RegistryObject<Item> TAUNT_LOVEJOY_MUSIC_DISC = ITEMS.register("taunt_lovejoy_music_disc",
+        () -> new RecordItem(4, ModSounds.TAUNT_LOVEJOY,
+                new Item.Properties().tab(ModCreativeModTab.DISC_TAB).stacksTo(1).rarity(Rarity.RARE)));
+public static final RegistryObject<Item> ONEDAY_LOVEJOY_MUSIC_DISC = ITEMS.register("oneday_lovejoy_music_disc",
+        () -> new RecordItem(4, ModSounds.ONEDAY_LOVEJOY,
+                new Item.Properties().tab(ModCreativeModTab.DISC_TAB).stacksTo(1).rarity(Rarity.RARE)));
+public static final RegistryObject<Item> SEXSELLS_LOVEJOY_MUSIC_DISC = ITEMS.register("sexsells_lovejoy_music_disc",
+        () -> new RecordItem(4, ModSounds.SEXSELLS_LOVEJOY,
+                new Item.Properties().tab(ModCreativeModTab.DISC_TAB).stacksTo(1).rarity(Rarity.RARE)));
+public static final RegistryObject<Item> CAUSEFORCONCERN_LOVEJOY_MUSIC_DISC = ITEMS.register("causeforconcern_lovejoy_music_disc",
+        () -> new RecordItem(4, ModSounds.CAUSEFORCONCERN_LOVEJOY,
+                new Item.Properties().tab(ModCreativeModTab.DISC_TAB).stacksTo(1).rarity(Rarity.RARE)));
+
+
+
 
 
     public static void register(IEventBus eventBus) {
