@@ -87,6 +87,27 @@ public static final RegistryObject<Item> SEXSELLS_LOVEJOY_MUSIC_DISC = ITEMS.reg
 public static final RegistryObject<Item> CAUSEFORCONCERN_LOVEJOY_MUSIC_DISC = ITEMS.register("causeforconcern_lovejoy_music_disc",
         () -> new RecordItem(4, ModSounds.CAUSEFORCONCERN_LOVEJOY,
                 new Item.Properties().tab(ModCreativeModTab.DISC_TAB).stacksTo(1).rarity(Rarity.RARE)));
+public static final RegistryObject<Item> OHYEAHYOUGONNACRY_LOVEJOY_MUSIC_DISC = ITEMS.register("ohyeahyougonnacry_lovejoy_music_disc",
+        () -> new RecordItem(4, ModSounds.OHYEAHYOUGONNACRY_LOVEJOY,
+                new Item.Properties().tab(ModCreativeModTab.DISC_TAB).stacksTo(1).rarity(Rarity.RARE)));
+public static final RegistryObject<Item> MODELBUSES_LOVEJOY_MUSIC_DISC = ITEMS.register("modelbuses_lovejoy_music_disc",
+        () -> new RecordItem(4, ModSounds.MODELBUSES_LOVEJOY,
+                new Item.Properties().tab(ModCreativeModTab.DISC_TAB).stacksTo(1).rarity(Rarity.RARE)));
+public static final RegistryObject<Item> CONCRETE_LOVEJOY_MUSIC_DISC = ITEMS.register("concrete_lovejoy_music_disc",
+        () -> new RecordItem(4, ModSounds.CONCRETE_LOVEJOY,
+                new Item.Properties().tab(ModCreativeModTab.DISC_TAB).stacksTo(1).rarity(Rarity.RARE)));
+public static final RegistryObject<Item> PERFUME_LOVEJOY_MUSIC_DISC = ITEMS.register("perfume_lovejoy_music_disc",
+        () -> new RecordItem(4, ModSounds.PERFUME_LOVEJOY,
+                new Item.Properties().tab(ModCreativeModTab.DISC_TAB).stacksTo(1).rarity(Rarity.RARE)));
+public static final RegistryObject<Item> YOULLUNDERSTANDWHENYOUREOLDER_LOVEJOY_MUSIC_DISC = ITEMS.register("youllunderstandwhenyoureolder_lovejoy_music_disc",
+        () -> new RecordItem(4, ModSounds.YOULLUNDERSTANDWHENYOUREOLDER_LOVEJOY,
+                new Item.Properties().tab(ModCreativeModTab.DISC_TAB).stacksTo(1).rarity(Rarity.RARE)));
+public static final RegistryObject<Item> THEFALL_LOVEJOY_MUSIC_DISC = ITEMS.register("thefall_lovejoy_music_disc",
+        () -> new RecordItem(4, ModSounds.THEFALL_LOVEJOY,
+                new Item.Properties().tab(ModCreativeModTab.DISC_TAB).stacksTo(1).rarity(Rarity.RARE)));
+public static final RegistryObject<Item> ITSALLFUTILEITSALLPOINTLESS_LOVEJOY_MUSIC_DISC = ITEMS.register("itsallfutileitsallpointless_lovejoy_music_disc",
+        () -> new RecordItem(4, ModSounds.ITSALLFUTILEITSALLPOINTLESS_LOVEJOY,
+                new Item.Properties().tab(ModCreativeModTab.DISC_TAB).stacksTo(1).rarity(Rarity.RARE)));
 
 
 

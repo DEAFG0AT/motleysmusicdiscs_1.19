@@ -39,6 +39,13 @@ public class ModSounds {
     public static RegistryObject<SoundEvent> ONEDAY_LOVEJOY = registerSoundEvent("oneday_lovejoy");
     public static RegistryObject<SoundEvent> SEXSELLS_LOVEJOY = registerSoundEvent("sexsells_lovejoy");
     public static RegistryObject<SoundEvent> CAUSEFORCONCERN_LOVEJOY = registerSoundEvent("causeforconcern_lovejoy");
+    public static RegistryObject<SoundEvent> OHYEAHYOUGONNACRY_LOVEJOY = registerSoundEvent("ohyeahyougonnacry_lovejoy");
+    public static RegistryObject<SoundEvent> MODELBUSES_LOVEJOY = registerSoundEvent("modelbuses_lovejoy");
+    public static RegistryObject<SoundEvent> CONCRETE_LOVEJOY = registerSoundEvent("concrete_lovejoy");
+    public static RegistryObject<SoundEvent> PERFUME_LOVEJOY = registerSoundEvent("perfume_lovejoy");
+    public static RegistryObject<SoundEvent> YOULLUNDERSTANDWHENYOUREOLDER_LOVEJOY = registerSoundEvent("youllunderstandwhenyoureolder_lovejoy");
+    public static RegistryObject<SoundEvent> THEFALL_LOVEJOY = registerSoundEvent("thefall_lovejoy");
+    public static RegistryObject<SoundEvent> ITSALLFUTILEITSALLPOINTLESS_LOVEJOY = registerSoundEvent("itsallfutileitsallpointless_lovejoy");
 
 
     private static RegistryObject<SoundEvent> registerSoundEvent(String name) {
