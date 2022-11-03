@@ -29,7 +29,7 @@ displayName="Motley's Music Discs" #mandatory
 # A file name (in the root of the mod JAR) containing a logo for display
 logoFile="mmd-coverart-v2.png" #optional
 # A text field displayed in the mod UI
-credits="Composer credits go here" #optional
+credits="Music by Koopastar and Disphing on YouTube" #optional
 # A text field displayed in the mod UI
 authors="GraceMotley" #optional
 # Display Test controls the display for your mod in the server connection screen
@@ -42,7 +42,9 @@ authors="GraceMotley" #optional
 
 # The description text for the mod (multi line!) (#mandatory)
 description='''
-Subscribe to Grace Motley at youtube.com/gracemotley!
+This mod adds some of my favrote songs to Minecraft a music discs! Includes custom 8-bit music and disc art.
+Currently, all Lovejoy EPs and the Inside soundtrack by Bo Burnham are in the game!
+Subscribe to Grace Motley at youtube.com/gracemotley
 '''
 # A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
 [[dependencies.motleysmusicdiscs]] #optional
